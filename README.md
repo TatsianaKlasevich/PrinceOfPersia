@@ -1,4 +1,4 @@
-# PrinceOfPersia
+# Prince Of Persia
 Opening his eyes, the Prince of Persia found himself at the top of the underground Jaffar’s labyrinth. The labyrinth contains H levels, located strictly one above the other. Each level is a rectangular area, divided into m × n areas. In some areas there are pillars. In such areas the Prince can not go.
 
 Prince can move from one area to another adjacent free area on the same level. He can also break through the floor to be at a lower level (at the lowest level he can not break through the floor). Any movement of the Prince takes 5 seconds.
